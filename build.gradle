@@ -141,7 +141,7 @@ configure(allprojects) { project ->
 }*/
 
 
-project(":esycation-common") {
+project("child1") {
 	description = "esycation Common"
 
 	dependencies {

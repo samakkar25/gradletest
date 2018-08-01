@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>parent</name>
-	<comment>Project parent created by Buildship.</comment>
+	<name>child1</name>
+	<comment>Project child1 created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
